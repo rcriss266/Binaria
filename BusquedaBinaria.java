@@ -20,7 +20,6 @@ public class BusquedaBinaria {
         return -1;
     }
 
-    // ← ← ← ESTE ES EL MÉTODO QUE TE FALTABA
     public static void main(String[] args) {
 
         int[] arreglo = {2, 5, 8, 12, 16, 23, 38};
